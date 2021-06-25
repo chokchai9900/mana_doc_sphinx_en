@@ -71,6 +71,6 @@ latex_elements = {
     'preamble': '\\usepackage[UTF8]{ctex}\n',
 }
 
-language = 'th'
+language = 'en'
 locale_dirs = ['locale/']
 gettext_compact = False
